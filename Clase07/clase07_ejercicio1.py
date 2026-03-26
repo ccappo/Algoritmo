@@ -1,3 +1,21 @@
+# Imprimir el promedio de los primeros N numeros pares
+
+# var
+#   N        : numerico
+#  cnt, suma : numerico
+# inicio
+#   leer(N)
+#   si N > 0 entonces
+#      cnt = 0
+#      suma = 0
+#      mientras cnt < N hacer
+#          cnt = cnt + 1
+#          suma = suma + cnt*2 
+#      imprimir("El promedio es", suma/cnt)
+#   sino
+#      imprimir("N debe ser mayor o igual que 1")
+#   fin-mientras
+# fin 
 
 N = int(input("Cantidad de números pares :"))
 
