@@ -1,0 +1,6 @@
+1912912,Galaverna,Juan,01021990,M
+2929102,Gonzalez ,Maria,02032000,F
+923283 ,Solis    ,Carlos,10041998,M
+1283883,Benitez  ,Pedro,11062000,M
+819291,Perez, Maria, 12111980   ,F
+8191911,Acosta,Pedro,10021985,M
